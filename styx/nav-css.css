@@ -3,7 +3,7 @@
     color: @cred-text;
     text-align: center;
     width: 200px;
-    text-shadow: 4px 0 #000;
+    text-shadow: 14px 0 #000;
 
     #active-ui-color {
         background:/* Responsive: Portrait tablets */
