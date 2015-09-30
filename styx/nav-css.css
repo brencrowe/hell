@@ -3,7 +3,6 @@
     color: @cred-text;
     text-align: center;
     width: 200px;
-
     text-shadow: 4px 0 #000;
 
     #active-ui-color {
